@@ -113,6 +113,14 @@
   margin-left: 0.5rem;
 }
 
+.content_bg {
+    margin: 50px 0;
+    background-image: url('../public/bg-img.png');
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
