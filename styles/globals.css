@@ -18,3 +18,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.content_bg {
+    margin: 50px 0;
+    background-image: url('../public/bg-img.png');
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
