@@ -8,6 +8,10 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-image: url('../public/bg-img.png');
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 a {
@@ -19,10 +23,3 @@ a {
   box-sizing: border-box;
 }
 
-.content_bg {
-    margin: 50px 0;
-    background-image: url('../public/bg-img.png');
-    height: 500px;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
